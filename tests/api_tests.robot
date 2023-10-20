@@ -10,7 +10,7 @@ Suite Setup       Suite Setup
 
 *** Variables ***
 ${Base URL}            http://api.openweathermap.org/data/3.0/weather
-${API Key}             4e93882788aadbb11dcea95266dcc58a
+${API Key}             << API_KEY >>
 ${Valid City}          New York
 ${Invalid City}        Dinosaur
 
