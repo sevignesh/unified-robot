@@ -9,8 +9,6 @@ This project is designed to implement API automation test suite using Robot fram
 ## Project Components
 1. Robot Framework 6.1.1
 2. Python-Requests library 2.31.0
-3. Cucumber 7.12.1
-4. Extent Report 5.1.0
 
 ## Environment Requirements
 1. Python v3.10.0 or later
@@ -18,7 +16,7 @@ This project is designed to implement API automation test suite using Robot fram
 3. Pycharm or IntelliJ IDE
 
 ## Project Structure
-1. tests: Contains the robot API tests and reports for the application.
+1. tests: Contains the robot API tests for the application along with the reports.
 2. modules: Contains the custom step implementations using Python.
 
 ## Execution Instructions
